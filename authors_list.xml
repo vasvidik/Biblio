@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authors>
+
+	<author>
+		<name>Иван Сергеевич Тургенев</name>
+	</author>
+
+	<author>
+		<name>Лев Николаевич Толстой</name>
+	</author>
+
+	<author>
+		<name>Александр Александрович Блок</name>
+	</author>
+
+	<author>
+		<name>Александр Сергеевич Пушкин</name>
+	</author>
+
+	<author>
+		<name>Владимир Владимирович Маяковский</name>
+	</author>
+
+	<author>
+		<name>Артур Конан Дойль</name>
+	</author>
+
+	<author>
+		<name>Говард Филлипс Лавкрафт</name>
+	</author>
+
+	<author>
+		<name>Джордж Оруэлл</name>
+	</author>
+
+	<author>
+		<name>Николай Васильевич Гоголь</name>
+	</author>
+
+	<author>
+		<name>Редьярд Киплинг</name>
+	</author>
+
+	<author>
+		<name>Уильям Шекспир</name>
+	</author>
+
+	<author>
+		<name>Федор Михайлович Достоевский</name>
+	</author>
+
+
+	<theEnd></theEnd>
+
+</authors>
